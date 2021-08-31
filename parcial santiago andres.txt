@@ -1,0 +1,19 @@
+https://www.w3schools.com/code/tryit.asp?filename=GU1GH2JPA68T
+<Santiago andres segura velandia>
+<!DOCTYPE html>
+<?xml version="1.0" standalone="no"?>
+<svg width="400" height="400" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<polygon points="107 20 108 21 100 32 95 42 91 50 85 68 81 87 79 99 79 118 79 128 81 137 83 149 86 163 91 175 94 180 98 187 104 196 109 204 105 204 11 114 11 110 "fill="Red"stroke-width="7" stroke="#C83617 "/>
+<polygon points="237 19 237 24 238 30 243 39 245 45 247 54 248 63 248 72 249 81 248 96 247 141 250 149 250 158 248 168 245 178 243 185 235 199 237 203 238 204 328 115 328 109 "fill="RoyalBlue"/>
+<polygon points="249 71 215 46 216 41 212 31 205 23 194 17 183 14 168 14 158 18 148 24 143 31 138 38 133 49 130 64 127 73 125 82 124 90 123 99 123 115 124 134 125 142 126 143 130 165 135 180 140 187 145 195 151 200 161 207 173 210 185 209 194 206 202 201 209 194 215 186 217 180 214 175 255 158 " fill="RoyalBlue"/>
+ <circle cx="213" cy="70" r="33" stroke="yellow" fill="yellow" stroke-width="5"/>
+ <circle cx="213" cy="168" r="33" stroke="yellow" fill="yellow" stroke-width="5"/>
+
+<polygon points=""/>
+<html>
+<head>
+<style>
+body {
+  background-color: yellow;
+  }
